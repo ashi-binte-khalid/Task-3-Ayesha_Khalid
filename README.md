@@ -22,10 +22,10 @@ This project was completed as an internship task assigned by DecodeLabs.
 - CSS3
 - JavaScript
 
-Purpose
+## Purpose
 This repository contains my internship task submission.
 
-Author
+## Author
 Ayesha Khalid
 
 Note: This project was completed as an internship task assigned by DecodeLabs.
